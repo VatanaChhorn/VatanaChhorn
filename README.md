@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Vatan Chhorn</h1>
 <p align="center">
-  <b>iOS Developer · UX-Driven Engineer · Cofounder at Dynomite</b>  
+  <b>Mobile Developer · UX-Driven Engineer · Cofounder at Dynomite</b>  
 </p>
 <p align="center">
   <a href="https://vatanachhorn.me">🌐 Portfolio</a> • 
